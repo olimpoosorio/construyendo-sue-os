@@ -1,0 +1,101 @@
+body{
+	font-family: 30px;
+	font-family: the time new roman;
+	color: white;
+	background-color: #FEDADA;
+	background-image:
+	background-size: 100%;
+	
+	
+}
+div h1{
+color: black;
+font-size: 30px;
+text-align: left;
+margin-top: -20px;
+
+
+}
+div h2{
+color: black;
+font-size: 50px;
+text-align: left;
+}
+
+
+div h3 {
+   height: 40px;
+   background-color: orange;
+   font-size: 25px;
+	color: white;
+	text-align: right;	
+}
+div h3 a{
+	margin-right: 10px;
+	margin-left: 10px;
+	text-decoration: none;
+	text-align: right;
+	color: white;
+
+}
+div h3 > a:hover{
+	color: red;
+}
+header{
+width: 1300px;
+height: 401px;
+margin-left: 0px;
+
+
+}
+
+header div{
+height: 400px;
+margin-bottom: 0;
+}
+
+section{
+	margin-top: 0px;
+   margin-left: 5px;
+   height: 1000px;
+   width: 1300px;
+   background-color: #F96B6B;
+}
+section h4{
+width: 500px;
+height: 400px;
+text-align: left;
+color: black;
+float: left;
+margin-left: 50px;
+font-size: 25px;
+margin-top: 0;
+
+}
+section h6{
+width: 500px;
+height: 350px;
+text-align: left;
+color: black;
+margin-left: 700px;
+font-size: 25px;
+margin-top: 0;
+}
+section h5{
+width: 700px;
+height: 350px;
+text-align:left; ;
+font-size: 25px;
+margin-top: 200px;
+float: inherit;
+margin-left: 120px;
+}
+
+
+footer{
+ width: 1300px;
+ margin-left: 5px;
+ height: 100px;
+background-color: #FF7401;
+color: white;
+}

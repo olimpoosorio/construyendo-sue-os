@@ -1,0 +1,92 @@
+body{
+	font-family: 30px;
+	font-family: the time new roman;
+	color: white;
+	background-color: #FEDADA;
+	background-image:
+	background-size: 100%;
+	
+
+}
+div h1{
+color: black;
+font-size: 30px;
+text-align: left;
+margin-top: -20px;
+
+
+}
+div h2{
+color: black;
+font-size: 50px;
+text-align: left;
+}
+
+
+div h3 {
+   height: 40px;
+   background-color: orange;
+   font-size: 25px;
+	color: white;
+	text-align: right;	
+}
+div h3 a{
+	margin-right: 10px;
+	margin-left: 10px;
+	text-decoration: none;
+	text-align: right;
+	color: white;
+
+}
+div h3 > a:hover{
+	color: red;
+}
+header{
+width: 1300px;
+height: 401px;
+margin-left: 0px;
+
+
+}
+
+header div{
+height: 400px;
+
+
+}
+
+section{
+	margin-top: 10px;
+   margin-left: 5px;
+   height: 700px;
+   width: 1300px;
+   background-color: #F96B6B;
+}
+#mapa, #formulario {
+ width: 40%;
+ float: left;
+ margin-left: 5%;
+ text-align: justify;
+ color: red;
+}
+#formulario input {
+ margin-top: 10px;
+ margin-left: 60px;
+ border-radius: 5px;
+ height: 24px;
+ width: 300px;
+ 
+}
+#formulario textarea{
+  margin-top: 10px;
+ margin-left: 60px;
+ border-radius: 5px;
+
+}
+footer{
+ width: 1300px;
+ margin-left: 5px;
+ height: 100px;
+background-color: #FF7401;
+color: white;
+}

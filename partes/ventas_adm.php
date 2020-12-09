@@ -1,0 +1,1 @@
+<button name="boton" type="button" onclick="document.location='ventas_admin.php?da=2'">ingresar nuevos datos </button>
